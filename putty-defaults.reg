@@ -63,7 +63,7 @@ Windows Registry Editor Version 5.00
 "NoApplicationKeys"=dword:00000000
 "NoApplicationCursors"=dword:00000000
 "NoMouseReporting"=dword:00000000
-"NoRemoteResize"=dword:00000000
+"NoRemoteResize"=dword:00000001
 "NoAltScreen"=dword:00000000
 "NoRemoteWinTitle"=dword:00000000
 "RemoteQTitleAction"=dword:00000001
